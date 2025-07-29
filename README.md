@@ -29,5 +29,3 @@ This Python program performs two main tasks:
 
 ---
 
-## 🧮 Sample Output
-
